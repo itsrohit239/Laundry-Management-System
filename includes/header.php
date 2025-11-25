@@ -108,9 +108,10 @@
         <nav class="navbar navbar-expand-lg navbar-light px-4">
             <div class="container-fluid">
                 <span class="navbar-text">
-                    Welcome back, <?php echo $_SESSION['user_name']; ?>!
+                    Laundry Management System.
                 </span>
             </div>
         </nav>
         <div class="content">
 <?php endif; ?>
+
